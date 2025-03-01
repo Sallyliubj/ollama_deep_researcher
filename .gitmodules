@@ -1,5 +1,5 @@
-[submodule "Ollama-deep-researcher"]
-	path = Ollama-deep-researcher
+[submodule "Ollama-deep-researcher-original"]
+	path = Ollama-deep-researcher-original
 	url = https://github.com/langchain-ai/ollama-deep-researcher.git
 [submodule "Ollama-deep-youtube-email-researcher"]
 	path = Ollama-deep-youtube-email-researcher
